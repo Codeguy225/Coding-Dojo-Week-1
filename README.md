@@ -1,12 +1,13 @@
 # Sales Prediction Project
 
-Simple overview of use/purpose.
 The goal of this project will be a sales prediction for food items sold at various stores.
+
 ## Description
 
 The goal of this is to help the retailer understand the properties of products and outlets that play crucial roles in increasing sales. We build several data visualizations to help our stakeholders better understand trends in the data.
 
 ## Getting Started
+
 Build several data visualizations to help your stakeholders better understand trends in the data.
 
 ### Dependencies
