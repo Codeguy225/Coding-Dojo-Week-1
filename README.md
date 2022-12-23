@@ -48,6 +48,6 @@ This project is licensed under the [NAME HERE] License - see the LICENSE.md file
 
 ## Acknowledgments
 
-![Code 1 (2)](https://user-images.githubusercontent.com/117793811/209271496-2ec62f51-91b3-4e7c-855d-6a9bbf3f4ffc.png)
+![image](https://user-images.githubusercontent.com/117793811/209271496-2ec62f51-91b3-4e7c-855d-6a9bbf3f4ffc.png)
 
 
