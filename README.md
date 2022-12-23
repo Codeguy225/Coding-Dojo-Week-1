@@ -23,11 +23,9 @@ Model 1 is Food count VS Outlet Sales
 * Base on the data we see that Starchy Foods has the higest sales count. 
 
 
-
 Model 2 is Outlet Location Type VS Outlet Sales
 ![Model 2](https://user-images.githubusercontent.com/117793811/209273543-2e43c249-342a-4527-9707-ad8ec91b9eda.png)
 * Base on data Tier 2 Location has greater Outlet Sales that Teir 1.
-
 
 
 Describe your final model
