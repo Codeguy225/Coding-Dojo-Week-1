@@ -32,8 +32,8 @@ Before splitting your data, we check for duplicates. We then dropped any duplica
 
 
 ## Describe your final model
-Used a Random Forest Regressor Modle as our final model. 
-Here, we see the best results as far as the regression metrics and the model's performance.
+Used a Random Forest Regressor Model as our final model. 
+Here, we saw the best results as far as the regression metrics and the model's performance.
 This model still has some bias. However, this model has the best performance on the testing set.
 For the R^2 score 60.4% of the variance is explained.
 For the MAE the testing score is off by about 728.039
