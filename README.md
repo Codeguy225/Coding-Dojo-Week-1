@@ -48,4 +48,4 @@ This project is licensed under the [NAME HERE] License - see the LICENSE.md file
 
 ## Acknowledgments
 
-![picture](C:\Users\talen\OneDrive\Desktop\Images\Code 1.png)
+![picture](raw.githubusercontent.com/Images/Code 1.png)
