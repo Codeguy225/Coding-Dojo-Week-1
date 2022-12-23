@@ -18,13 +18,8 @@ The goal of this is to help the retailer understand the properties of products a
 * How/where to download your program
 * Any modifications needed to be made to files/folders
 
-### Executing program
+### Models
 
-* How to run the program
-* Step-by-step bullets
-```
-code blocks for commands
-```
 
 ## Help
 
@@ -48,6 +43,6 @@ This project is licensed under the [NAME HERE] License - see the LICENSE.md file
 
 ## Acknowledgments
 
-![image](https://user-images.githubusercontent.com/117793811/209271496-2ec62f51-91b3-4e7c-855d-6a9bbf3f4ffc.png)
+
 
 
