@@ -22,6 +22,7 @@ The goal of this is to help the retailer understand the properties of products a
 
 ![Model 1](https://user-images.githubusercontent.com/117793811/209273015-55e856f2-5b4d-4824-bb5a-6ba1f1fd3736.png)
 
+![Model 2](https://user-images.githubusercontent.com/117793811/209273543-2e43c249-342a-4527-9707-ad8ec91b9eda.png)
 
 
 ## Help
