@@ -8,9 +8,9 @@ The goal of this is to help the retailer understand the properties of products a
 
 ## Data:
 
-Link to the original dataset on Kaggle
+Link to the original dataset on Google Drive
 
-https://www.kaggle.com/datasets/ruchi798/data-science-job-salaries
+https://drive.google.com/file/d/1syH81TVrbBsdymLT_jl2JIf6IjPXtSQw/view
 
 
 
