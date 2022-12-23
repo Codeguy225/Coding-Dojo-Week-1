@@ -19,7 +19,9 @@ The goal of this is to help the retailer understand the properties of products a
 * Any modifications needed to be made to files/folders
 
 ### Models
-![image](https://user-images.githubusercontent.com/117793811/209272148-fa0bec14-0bd8-4339-a50c-d649a68f01c1.png)
+
+![Model 1](https://user-images.githubusercontent.com/117793811/209273015-55e856f2-5b4d-4824-bb5a-6ba1f1fd3736.png)
+
 
 
 ## Help
