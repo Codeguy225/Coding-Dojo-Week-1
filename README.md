@@ -15,6 +15,7 @@ https://drive.google.com/file/d/1syH81TVrbBsdymLT_jl2JIf6IjPXtSQw/view
 
 ## Methods
 
+Before splitting your data, we check for duplicates. We then dropped any duplicates found and fix inconsistencies in categorical data. Identify the features (X) and target (y): Assign the "Item_Outlet_Sales" column as your target and the rest of the relevant variables as your features matrix. Perform a train test split Create a preprocessing object to prepare the dataset for Machine Learning Make sure your imputation of missing values occurs after the train test split using SimpleImputer. 
 
 ## Results
 ### Model 1 is Food count VS Outlet Sales
