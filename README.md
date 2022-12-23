@@ -28,6 +28,8 @@ Model 2 is Outlet Location Type VS Outlet Sales
 * Base on data Tier 2 Location has greater Outlet Sales that Teir 1.
 
 
+
+
 Describe your final model
 
 Report the most important metrics
