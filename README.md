@@ -31,14 +31,18 @@ https://drive.google.com/file/d/1syH81TVrbBsdymLT_jl2JIf6IjPXtSQw/view
 
 
 ## Describe your final model
+Used a Random Forest Regressor Modle as our final model. 
+Here, we see the best results as far as the regression metrics and the model's performance.
+This model still has some bias. However, this model has the best performance on the testing set.
+For the R^2 score 60.4% of the variance is explained.
+For the MAE the testing score is off by about 728.039
 
-Report the most important metrics
 
-Refer to the metrics to describe how well the model would solve the business problem
+## Model Performance
+Overall, the best model is definitely the tuned Random Forest Regressor Model. There was still some bias in the model, but by far it outperformed the linear regression model.
 
 ## Recommendations:
 
-More of your own text here
 
 
 ## Limitations & Next Steps
@@ -49,4 +53,5 @@ More of your own text here
 ### For further information
 
 
-For any additional questions, please contact **email**
+For any additional questions, contact Email: Talented225@gmail.com
+
