@@ -48,4 +48,5 @@ This project is licensed under the [NAME HERE] License - see the LICENSE.md file
 
 ## Acknowledgments
 
-![picture](raw.githubusercontent.com/Images/Code 1.png)
+![image description](https://drive.google.com/file/d/1qqNW7ZBT7R-Ptox3THHihvvhnEZaerFR/view?usp=share_link)
+
