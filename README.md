@@ -8,10 +8,8 @@ The goal of this is to help the retailer understand the properties of products a
 
 ## Data:
 
-Link to the original dataset on Google Drive
-
+Link to the Data Set.
 https://drive.google.com/file/d/1syH81TVrbBsdymLT_jl2JIf6IjPXtSQw/view
-
 
 
 ### Models
