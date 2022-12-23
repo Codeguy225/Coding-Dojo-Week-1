@@ -20,6 +20,7 @@ https://drive.google.com/file/d/1syH81TVrbBsdymLT_jl2JIf6IjPXtSQw/view
 Model 1 is Food count VS Outlet Sales
 
 ![Model 1](https://user-images.githubusercontent.com/117793811/209273015-55e856f2-5b4d-4824-bb5a-6ba1f1fd3736.png)
+
 * Base on the data we see that Starchy Foods has the higest sales count. 
 
 
