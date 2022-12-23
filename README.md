@@ -10,16 +10,6 @@ The goal of this is to help the retailer understand the properties of products a
 
 Build several data visualizations to help your stakeholders better understand trends in the data.
 
-### Dependencies
-
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
-
-### Installing
-
-* How/where to download your program
-* Any modifications needed to be made to files/folders
-
 ### Models
 
 ![Model 1](https://user-images.githubusercontent.com/117793811/209273015-55e856f2-5b4d-4824-bb5a-6ba1f1fd3736.png)
