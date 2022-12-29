@@ -43,7 +43,7 @@ For the MAE the testing score is off by about 728.039
 Overall, the best model is definitely the tuned Random Forest Regressor Model. There was still some bias in the model, but by far it outperformed the linear regression model.
 
 ## Recommendations:
-It is imporant to know what you Best Max Depth is along with your Best Estimators are. 
+It is important to know what you Best Max Depth is along with your Best Estimators are. 
 Based on this model the best Max depth is 5 and the Best Estimator is 92.
 
 
